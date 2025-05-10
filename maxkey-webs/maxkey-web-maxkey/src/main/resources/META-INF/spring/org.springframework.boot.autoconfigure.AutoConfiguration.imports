@@ -1,0 +1,3 @@
+org.dromara.maxkey.autoconfigure.Oauth20AutoConfiguration
+org.dromara.maxkey.autoconfigure.MaxKeyMvcConfig
+org.dromara.maxkey.autoconfigure.MaxKeyConfig

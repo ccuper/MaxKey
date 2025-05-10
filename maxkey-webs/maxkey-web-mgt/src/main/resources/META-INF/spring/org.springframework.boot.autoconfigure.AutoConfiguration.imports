@@ -1,0 +1,3 @@
+org.dromara.maxkey.autoconfigure.MaxKeyMgtConfig
+org.dromara.maxkey.autoconfigure.MaxKeyMgtMvcConfig
+org.dromara.maxkey.autoconfigure.MaxKeyMgtListenerConfig
